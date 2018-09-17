@@ -1,1 +1,2 @@
 gem "capybara", ">= 2.15"
+gem "actionview", "= 4.2.7"
