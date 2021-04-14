@@ -1,0 +1,8 @@
+ifdef::env-github[:imagesdir: https://github.com/tribe29/checkmk-docs/blob/2.0.0/images]
+
+foobar ... testing
+
+image::dashboard_main_numbered.png[]
+
+foobar ... ende
+
