@@ -6,3 +6,4 @@ image::dashboard_main_numbered.png[]
 
 foobar ... ende
 
+include::testo.asciidoc
